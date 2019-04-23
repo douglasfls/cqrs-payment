@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/*.user": true,
+        "**/bin": true,
+        "**/obj": true,
+        "**/publish": true,
+        "**/TestResults": true
+    }
+}

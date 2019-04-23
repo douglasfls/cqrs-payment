@@ -1,0 +1,17 @@
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\PaymentContext.Tests.deps.json
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\PaymentContext.Tests.dll
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\PaymentContext.Tests.pdb
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\PaymentContext.Domain.pdb
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\obj\Debug\netstandard2.0\PaymentContext.Tests.csprojAssemblyReference.cache
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\obj\Debug\netstandard2.0\PaymentContext.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\obj\Debug\netstandard2.0\PaymentContext.Tests.AssemblyInfoInputs.cache
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\obj\Debug\netstandard2.0\PaymentContext.Tests.AssemblyInfo.cs
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\obj\Debug\netstandard2.0\PaymentContext.Tests.csproj.CopyComplete
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\obj\Debug\netstandard2.0\PaymentContext.Tests.dll
+C:\Users\dougl\Desktop\PaymentContext\PaymentContext.Tests\obj\Debug\netstandard2.0\PaymentContext.Tests.pdb
