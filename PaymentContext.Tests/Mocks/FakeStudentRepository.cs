@@ -1,13 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
 using PaymentContext.Domain.Entities;
 using PaymentContext.Domain.Enums;
 using PaymentContext.Domain.Repositories;
 using PaymentContext.Domain.ValueObjects;
 
-namespace PaymentContext.Tests.Mock {
+namespace PaymentContext.Tests.Mock
+{
     public class FakeStudentRepository : IStudentRepository {
         public FakeStudentRepository () {
             _students = new List<Student> ();

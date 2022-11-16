@@ -1,4 +1,3 @@
-using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PaymentContext.Domain.Queries;
 using PaymentContext.Tests.Mock;

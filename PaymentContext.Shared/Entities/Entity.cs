@@ -1,7 +1,7 @@
-using System;
 using Flunt.Notifications;
 
-namespace PaymentContext.Shared.Entities {
+namespace PaymentContext.Shared.Entities
+{
     public abstract class Entity : Notifiable {
         public Entity () {
             Id = Guid.NewGuid ();

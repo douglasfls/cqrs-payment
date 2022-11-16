@@ -1,11 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using Flunt.Validations;
 using PaymentContext.Shared.Entities;
 
-namespace PaymentContext.Domain.Entities {
-    public class Subscription : Entity {
+namespace PaymentContext.Domain.Entities
+{
+    public sealed class Subscription : Entity {
         IList<Payment> _payments;
         public Subscription (DateTime? expireDate) {
             Active = true;

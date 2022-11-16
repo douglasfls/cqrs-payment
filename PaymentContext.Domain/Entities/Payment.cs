@@ -1,9 +1,9 @@
-using System;
 using Flunt.Validations;
 using PaymentContext.Domain.ValueObjects;
 using PaymentContext.Shared.Entities;
 
-namespace PaymentContext.Domain.Entities {
+namespace PaymentContext.Domain.Entities
+{
     public abstract class Payment : Entity {
 
         protected Payment (DateTime paiedDate, DateTime expireDate, decimal total, decimal totalPayed, Address address, string payer, Document document, Email email) {

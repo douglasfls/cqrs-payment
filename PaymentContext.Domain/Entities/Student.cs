@@ -1,12 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using Flunt.Validations;
 using PaymentContext.Domain.ValueObjects;
 using PaymentContext.Shared.Entities;
 
-namespace PaymentContext.Domain.Entities {
-    public class Student : Entity {
+namespace PaymentContext.Domain.Entities
+{
+    public sealed class Student : Entity {
         IList<Subscription> _subscriptions;
         public Student (Name name, Document document, Email email, Address address) {
             Name = name;
